@@ -3,3 +3,6 @@ Task-01-Data-Cleaning/data/raw/*
 !Task-01-Data-Cleaning/data/raw/.gitkeep
 # Personal documents - never upload
 Task-03-Recommendation-System/screenshots/Apply_Essentials/
+# Python generated files
+__pycache__/
+*.py[cod]
