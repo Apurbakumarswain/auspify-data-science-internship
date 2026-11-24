@@ -1,0 +1,3 @@
+Model,Accuracy (%),Movie F1-score,TV Show F1-score
+Logistic Regression,99.26,0.9947,0.9877
+Random Forest,96.99,0.9785,0.9495
